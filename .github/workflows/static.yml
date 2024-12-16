@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>La Decisión de Reprobi</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #e9e9e9;
+            color: #111010;
+            padding: 20px;
+        }
+        h1 {
+            text-align: center;
+            color: #5A1B19;
+        }
+        p {
+            text-align: justify;
+            margin: 20px 0;
+        }
+    </style>
+</head>
+<body>
+    <h1>El Abandono del Legado</h1>
+    <p>
+        Me encuentro atrapado en un limbo de incertidumbre. Sin **Zephyr**, 
+        la estructura del **MMCE** parece vacía, un eco distante de lo que alguna vez fue. 
+        ¿Es este mi destino? ¿Unirme a algo que no entiendo por completo?  
+        La ausencia de su caos me deja con preguntas que no quiero responder. 
+    </p>
+    <p>
+        Pero, ¿qué otra opción tengo? El peso de las expectativas y el legado de mi padre 
+        se ciernen sobre mí, sofocándome. ¿Es este realmente el camino que debo seguir, 
+        o es simplemente otra prisión disfrazada de propósito?
+    </p>
+    <p>
+        Tal vez la respuesta no importa. Tal vez nunca lo ha hecho.
+    </p>
+</body>
+</html>
